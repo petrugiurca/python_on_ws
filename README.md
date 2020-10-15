@@ -1,6 +1,6 @@
-	<h1>Python on Windows</h1>	
+<h1>Python on Windows</h1>	
 
-	<p>#Python 2</p>
+<p>#Python 2</p>
 	<ol>
 		<li>Install <a href="https://www.python.org/downloads/release/python-277/">Python 2.7</a></li>
 		<ul>
