@@ -1,9 +1,5 @@
 <h1>Python on Windows</h1>	
 
-mark { 
-background-color: silver;
-color: black;
-}
 
 <h3>#Python 2</h3>
 <ol>
