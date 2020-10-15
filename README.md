@@ -12,43 +12,41 @@
 
 </ul>
 
+<li>Install <mark>pip</mark> for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
+<ul>
 
-		<li>Install <mark>pip</mark> for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
-		<ul>
-
-			<li>Download <mark>get-pip.py</mark> and run <mark>python get-pip.py</mark>, where <mark>python</mark> is the command to run the Python 2.7 interpreter.</li>
-			<li>If this works, <mark>C:\Python27\Scripts</mark> will contain <mark>pip.exe</mark></li>
+<li>Download <mark>get-pip.py</mark> and run <mark>python get-pip.py</mark>, where <mark>python</mark> is the command to run the Python 2.7 interpreter.</li>
+<li>If this works, <mark>C:\Python27\Scripts</mark> will contain <mark>pip.exe</mark></li>
 	
-		</ul>
+</ul>
 
 
-		<li>Install <mark>virtualenv</mark> for environment management (<a href="https://docs.python.org/3/library/venv.html">https://docs.python.org/3/library/venv.html</a>)</li>
-		<ul>
+<li>Install <mark>virtualenv</mark> for environment management (<a href="https://docs.python.org/3/library/venv.html">https://docs.python.org/3/library/venv.html</a>)</li>
+<ul>
 
-			<li><mark>pip install virtualenv</mark> where <mark>pip</mark> refers to <mark>C:\Python27\Scripts\pip.exe</mark></li>
+<li><mark>pip install virtualenv</mark> where <mark>pip</mark> refers to <mark>C:\Python27\Scripts\pip.exe</mark></li>
 	
-		</ul>
+</ul>
+
+<li>Install virtualenvwrapper for Powershell: makes virtualenv usage more convenient <a href="https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1"></a> (https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1)</li>
+<ul>
+
+<li><mark>pip install virtualenvwrapper-powershell</mark></li>
+<li>Add <mark>Import-Module virtualenvwrapper</mark> to PowerShell profile for all users</li>
+<li>See sample PowerShell profile below</li>
+
+</ul>
 
 
-		<li>Install virtualenvwrapper for Powershell: makes virtualenv usage more convenient <a href="https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1"></a> (https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1)</li>
-		<ul>
+<li>Install other useful packages for education:</li>
+<ul>
 
-			<li><mark>pip install virtualenvwrapper-powershell</mark></li>
-			<li>Add <mark>Import-Module virtualenvwrapper</mark> to PowerShell profile for all users</li>
-			<li>See sample PowerShell profile below</li>
-
-		</ul>
-
-
-		<li>Install other useful packages for education:</li>
-		<ul>
-
-			<li><mark>pip install ipython</mark></li>
-			<li>Install pygame (download msi file from <a href="http://pygame.org/download.shtml">http://pygame.org/download.shtml</a>)</li>
+<li><mark>pip install ipython</mark></li>
+<li>Install pygame (download msi file from <a href="http://pygame.org/download.shtml">http://pygame.org/download.shtml</a>)</li>
 	
-		</ul>
+</ul>
 
-	</ol>
+</ol>
 
 
 
