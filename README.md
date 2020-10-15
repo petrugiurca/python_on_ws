@@ -1,35 +1,105 @@
-###### <h1>Python on Windows</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		mark { 
+		  background-color: silver;
+		  color: black;
+		}
+	</style>
+</head>
+<body>
 
-#Python 2
+	<h1>Python on Windows</h1>	
 
-Install Python 2.7.7 (https://www.python.org/downloads/release/python-277/)
-To use pygame (mentioned below), install the 32-bit (x86, not x86-64) version of Python!
-Location C:\Python27
-Add C:\Python27\python.exe and C:\Python27\Scripts to PATH
-In the Start menu, rename the "IDLE" shortcut to "IDLE Python 2.7"
-Install pip for package management (https://pip.pypa.io/en/latest/installing/)
-Download get-pip.py and run python get-pip.py, where python is the command to run the Python 2.7 interpreter.
-If this works, C:\Python27\Scripts will contain pip.exe
-Install virtualenv for environment management (https://docs.python.org/3/library/venv.html)
-pip install virtualenv where pip refers to C:\Python27\Scripts\pip.exe
-Install virtualenvwrapper for Powershell: makes virtualenv usage more convenient (https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1)
-pip install virtualenvwrapper-powershell
-Add Import-Module virtualenvwrapper to PowerShell profile for all users
-See sample PowerShell profile below
-Install other useful packages for education:
-pip install ipython
-Install pygame (download msi file from http://pygame.org/download.shtml)
+	<p>#Python 2</p>
+	<ol>
+		<li>Install <a href="https://www.python.org/downloads/release/python-277/">Python 2.7</a></li>
+		<ul>
 
-#Python 3
+			<li>To use <mark>pygame</mark> (mentioned below), install the 32-bit (x86, not x86-64) version of Python!</li>
+			<li>Location <mark>C:\Python27</mark></li>
+			<li>Add <mark>C:\Python27\python.exe</mark> and <mark>C:\Python27\Scripts</mark> to <mark>PATH</mark></li>
+			<li>In the Start menu, rename the "IDLE" shortcut to "IDLE Python 2.7"</li>
 
-Install Python 3.9.0 (https://www.python.org/downloads/release/python-390/)
-To use pygame (mentioned below), install the 32-bit (x86, not x86-64) version of Python!
-Location C:\Python39
-Add C:\Python39\python.exe and C:\Python39\Scripts to PATH
-In the Start menu, rename the "IDLE" shortcut to "IDLE Python 3.9"
-Install pip for package management (https://pip.pypa.io/en/latest/installing/)
-Download get-pip.py and run python get-pip.py, where python is the command to run the Python 3.9 interpreter.
-If this works, C:\Python39\Scripts will contain pip.exe
-Install other useful packages for education:
-pip install ipython
-Install pygame (Download msi file from http://pygame.org/download.shtml)
+		</ul>
+
+
+		<li>Install <mark>pip</mark> for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
+		<ul>
+
+			<li>Download <mark>get-pip.py</mark> and run <mark>python get-pip.py</mark>, where <mark>python</mark> is the command to run the Python 2.7 interpreter.</li>
+			<li>If this works, <mark>C:\Python27\Scripts</mark> will contain <mark>pip.exe</mark></li>
+	
+		</ul>
+
+
+		<li>Install <mark>virtualenv</mark> for environment management (<a href="https://docs.python.org/3/library/venv.html">https://docs.python.org/3/library/venv.html</a>)</li>
+		<ul>
+
+			<li><mark>pip install virtualenv</mark> where <mark>pip</mark> refers to <mark>C:\Python27\Scripts\pip.exe</mark></li>
+	
+		</ul>
+
+
+		<li>Install virtualenvwrapper for Powershell: makes virtualenv usage more convenient <a href="https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1"></a> (https://pypi.python.org/pypi/virtualenvwrapper-powershell/2.7.1)</li>
+		<ul>
+
+			<li><mark>pip install virtualenvwrapper-powershell</mark></li>
+			<li>Add <mark>Import-Module virtualenvwrapper</mark> to PowerShell profile for all users</li>
+			<li>See sample PowerShell profile below</li>
+
+		</ul>
+
+
+		<li>Install other useful packages for education:</li>
+		<ul>
+
+			<li><mark>pip install ipython</mark></li>
+			<li>Install pygame (download msi file from <a href="http://pygame.org/download.shtml">http://pygame.org/download.shtml</a>)</li>
+	
+		</ul>
+
+	</ol>
+
+
+
+	<p>#Python 3</p>
+	
+	<ol>
+		<li>Install <a href="https://www.python.org/downloads/release/python-390/">Python 3.9</a></li>
+		<ul>
+
+			<li>To use <mark>pygame</mark> (mentioned below), install the 32-bit (x86, not x86-64) version of Python!</li>
+			<li>Location <mark>C:\Python39</mark></li>
+			<li>Add <mark>C:\Python39\python.exe</mark> and <mark>C:\Python39\Scripts</mark> to <mark>PATH</mark></li>
+			<li>In the Start menu, rename the "IDLE" shortcut to "IDLE Python 3.9"</li>
+
+		</ul>
+
+
+		<li>Install pip for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
+		<ul>
+
+			<li>Download <mark>get-pip.py</mark> and run <mark>python get-pip.py</mark>, where <mark>python</mark> is the command to run the Python 3.9 interpreter.</li>
+			<li>If this works, <mark>C:\Python39\Scripts</mark> will contain <mark>pip.exe</mark></li>
+
+		</ul>
+
+
+		<li>Install other useful packages for education:</li>
+		<ul>
+
+			<li><mark>pip install ipython</mark></li>
+			<li>Install pygame (download msi file from <a href="http://pygame.org/download.shtml">http://pygame.org/download.shtml</a>)</li>
+
+		</ul>
+
+	</ol>	
+
+			
+</body>
+</html>
