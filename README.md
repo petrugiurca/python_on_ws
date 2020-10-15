@@ -1,3 +1,9 @@
+<style>
+mark { 
+background-color: silver;
+color: black;
+}
+</style>
 <h1>Python on Windows</h1>	
 
 <h3>#Python 2</h3>
