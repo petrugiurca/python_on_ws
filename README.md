@@ -1,6 +1,6 @@
 <h1>Python on Windows</h1>	
 
-<p>#Python 2</p>
+<h3>#Python 2</h3>
 <ol>
 <li>Install <a href="https://www.python.org/downloads/release/python-277/">Python 2.7</a></li>
 <ul>
@@ -49,7 +49,7 @@
 </ol>
 
 
-<p>#Python 3</p>
+<h3>#Python 3</h3>
 	
 <ol>
 <li>Install <a href="https://www.python.org/downloads/release/python-390/">Python 3.9</a></li>
