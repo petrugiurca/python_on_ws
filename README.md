@@ -49,38 +49,36 @@
 </ol>
 
 
-
-	<p>#Python 3</p>
+<p>#Python 3</p>
 	
-	<ol>
-		<li>Install <a href="https://www.python.org/downloads/release/python-390/">Python 3.9</a></li>
-		<ul>
+<ol>
+<li>Install <a href="https://www.python.org/downloads/release/python-390/">Python 3.9</a></li>
+<ul>
 
-			<li>To use <mark>pygame</mark> (mentioned below), install the 32-bit (x86, not x86-64) version of Python!</li>
-			<li>Location <mark>C:\Python39</mark></li>
-			<li>Add <mark>C:\Python39\python.exe</mark> and <mark>C:\Python39\Scripts</mark> to <mark>PATH</mark></li>
-			<li>In the Start menu, rename the "IDLE" shortcut to "IDLE Python 3.9"</li>
+<li>To use <mark>pygame</mark> (mentioned below), install the 32-bit (x86, not x86-64) version of Python!</li>
+<li>Location <mark>C:\Python39</mark></li>
+<li>Add <mark>C:\Python39\python.exe</mark> and <mark>C:\Python39\Scripts</mark> to <mark>PATH</mark></li>
+<li>In the Start menu, rename the "IDLE" shortcut to "IDLE Python 3.9"</li>
 
-		</ul>
-
-
-		<li>Install pip for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
-		<ul>
-
-			<li>Download <mark>get-pip.py</mark> and run <mark>python get-pip.py</mark>, where <mark>python</mark> is the command to run the Python 3.9 interpreter.</li>
-			<li>If this works, <mark>C:\Python39\Scripts</mark> will contain <mark>pip.exe</mark></li>
-
-		</ul>
+</ul>
 
 
-		<li>Install other useful packages for education:</li>
-		<ul>
+<li>Install pip for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
+<ul>
 
-			<li><mark>pip install ipython</mark></li>
-			<li>Install pygame (download msi file from <a href="http://pygame.org/download.shtml">http://pygame.org/download.shtml</a>)</li>
+<li>Download <mark>get-pip.py</mark> and run <mark>python get-pip.py</mark>, where <mark>python</mark> is the command to run the Python 3.9 interpreter.</li>
+<li>If this works, <mark>C:\Python39\Scripts</mark> will contain <mark>pip.exe</mark></li>
 
-		</ul>
+</ul>
 
-	</ol>	
+
+<li>Install other useful packages for education:</li>
+<ul>
+
+<li><mark>pip install ipython</mark></li>
+<li>Install pygame (download msi file from <a href="http://pygame.org/download.shtml">http://pygame.org/download.shtml</a>)</li>
+
+</ul>
+</ol>	
 
 
