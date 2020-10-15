@@ -1,10 +1,10 @@
 <h1>Python on Windows</h1>	
-<style>
+
 mark { 
 background-color: silver;
 color: black;
 }
-</style>
+
 <h3>#Python 2</h3>
 <ol>
 <li>Install <a href="https://www.python.org/downloads/release/python-277/">Python 2.7</a></li>
