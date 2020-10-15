@@ -4,7 +4,6 @@
 		  color: black;
 		}
 	</style>
-</head>
 <body>
 
 	<h1>Python on Windows</h1>	
