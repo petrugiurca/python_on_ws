@@ -1,16 +1,16 @@
 <h1>Python on Windows</h1>	
 
 <p>#Python 2</p>
-	<ol>
-		<li>Install <a href="https://www.python.org/downloads/release/python-277/">Python 2.7</a></li>
-		<ul>
+<ol>
+<li>Install <a href="https://www.python.org/downloads/release/python-277/">Python 2.7</a></li>
+<ul>
 
-			<li>To use <mark>pygame</mark> (mentioned below), install the 32-bit (x86, not x86-64) version of Python!</li>
-			<li>Location <mark>C:\Python27</mark></li>
-			<li>Add <mark>C:\Python27\python.exe</mark> and <mark>C:\Python27\Scripts</mark> to <mark>PATH</mark></li>
-			<li>In the Start menu, rename the "IDLE" shortcut to "IDLE Python 2.7"</li>
+<li>To use <mark>pygame</mark> (mentioned below), install the 32-bit (x86, not x86-64) version of Python!</li>
+<li>Location <mark>C:\Python27</mark></li>
+<li>Add <mark>C:\Python27\python.exe</mark> and <mark>C:\Python27\Scripts</mark> to <mark>PATH</mark></li>
+<li>In the Start menu, rename the "IDLE" shortcut to "IDLE Python 2.7"</li>
 
-		</ul>
+</ul>
 
 
 		<li>Install <mark>pip</mark> for package management (<a href="https://pip.pypa.io/en/latest/installing/">https://pip.pypa.io/en/latest/installing/</a>)</li>
