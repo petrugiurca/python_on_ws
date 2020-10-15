@@ -1,5 +1,3 @@
-<body>
-
 	<h1>Python on Windows</h1>	
 
 	<p>#Python 2</p>
@@ -87,6 +85,4 @@
 
 	</ol>	
 
-			
-</body>
-</html>
+
