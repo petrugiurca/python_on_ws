@@ -1,9 +1,3 @@
-	<style>
-		mark { 
-		  background-color: silver;
-		  color: black;
-		}
-	</style>
 <body>
 
 	<h1>Python on Windows</h1>	
